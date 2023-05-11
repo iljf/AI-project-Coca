@@ -1,1 +1,2 @@
-#### CoCa: Contrastive Captioners are Image-Text Foundation Models
+# CoCa: Contrastive Captioners are Image-Text Foundation Models
+### Introduction
